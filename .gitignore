@@ -3,4 +3,4 @@
 pyvenv.cfg
 /__pycache__
 /.idea
-venv/Lib
+venv/Lib/site-packages/pip/_vendor/rich/__pycache__
