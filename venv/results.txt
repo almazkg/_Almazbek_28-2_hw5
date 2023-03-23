@@ -1,0 +1,12 @@
+ name: Александр topic: 6 rate: 10
+ name: Бабур topic: 4 rate: 0
+ name: Ману topic: 8 rate: 8
+ name: Адилет14 topic: 1 rate: 0
+ name: Алмазбек topic: 8 rate: 10
+ name: Динмухаммед topic: 3 rate: 2
+ name: Адилет10 topic: 1 rate: 12
+ name: Акбаржон topic: 4 rate: 17
+ name: Азамат topic: 5 rate: 5
+ name: Исрадин topic: 5 rate: 13
+ name: Артур topic: 2 rate: 7
+ name: Нурсултан topic: 6 rate: 7
