@@ -1,6 +1,0 @@
-/Lib
-/Scripts
-pyvenv.cfg
-/__pycache__
-/.idea
-venv/Lib/site-packages/pip/_vendor/rich/__pycache__
